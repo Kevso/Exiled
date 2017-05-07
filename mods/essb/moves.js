@@ -1368,6 +1368,6 @@ exports.BattleMovedex = {
 		},
 		ignoreImmunity: {'Psychic': true},
 		target: "normal",
-		type: "Psychic",
+		type: "Rock",
 	},
 };
