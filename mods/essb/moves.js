@@ -1360,6 +1360,7 @@ exports.BattleMovedex = {
 			this.useMove('Spikes', target);
 			this.useMove('Toxic Spikes', target);
 			this.useMove('Toxic Spikes', target);
+			this.useMove('Sticky Web', target);
 		},
 		secondary: false,
 		onPrepareHit: function (target, source) {
